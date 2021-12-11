@@ -1,4 +1,4 @@
-### Hey, I'm Stefan
+# Hey, I'm Stefan
 
 I am a graduate student at Georgia Tech. My research focuses on [hardware acceleration for machine learning](https://sharclab.ece.gatech.edu/research/). I also work on my own project using [deep learning for hurricane forecasting](https://github.com/stormalytics/hurricane-forecasting). During my summers, I teach high school students scientific computing, data science, and machine learning as part of their [research program](https://www.ahschool.com/broward-campus).
 
