@@ -10,15 +10,14 @@ In my own time, I like learning and experimenting in areas such as music product
 ## Skills and Tools
 
 
-<img src="./expansion_board.ico"  style="float: left;">
+<img src="./expansion_board.ico"  align="left">
 
 **Hardware** — Verilog, HLS, Kicad, FPGAs + Embedded Systems + Microcontrollers
 
-<img src="./grpconv_100.ico" style="float: left;">
+<img src="./grpconv_100.ico" align="left">
 
 **Software** — Python, C/C++, HTML/JS/CSS
 
-
-<img src="./explorer_103.ico" style="float: left;">
+<img src="./explorer_103.ico" align="left">
 
 **Research** — Deep Learning, Time Series Forecasting, Computer Vision + Remote Sensing, Data Science + Environmental Sensing, Optimization, Signal Processing + Hardware Music Synthesis, Biomedical Imaging and Sensing, Teaching Pedagogy
